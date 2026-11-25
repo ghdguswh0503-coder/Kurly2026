@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Kurly2026/static/css/main.364979c1.css",
+    "main.js": "/Kurly2026/static/js/main.6fcd3a48.js",
+    "static/media/img5.png": "/Kurly2026/static/media/img5.14c5e1055e1b97003b81.png",
+    "static/media/smallbanner.png": "/Kurly2026/static/media/smallbanner.a276a1f1e19cf92bb274.png",
+    "static/media/img7.png": "/Kurly2026/static/media/img7.89027eaf7026bca3ce50.png",
+    "static/media/banner1.jpg": "/Kurly2026/static/media/banner1.50689f2c6bf1364ded77.jpg",
+    "static/media/banner3.jpg": "/Kurly2026/static/media/banner3.5488a14cbd6f51a59d33.jpg",
+    "static/media/banner2.jpg": "/Kurly2026/static/media/banner2.b8a116bfa1b5d0075635.jpg",
+    "static/media/img3.jpg": "/Kurly2026/static/media/img3.27c3e97851d75b601323.jpg",
+    "static/media/img1.jpg": "/Kurly2026/static/media/img1.72dcbf93081866af2503.jpg",
+    "static/media/img2.jpeg": "/Kurly2026/static/media/img2.9cdebb7e9f4a17132446.jpeg",
+    "static/media/img4.jpg": "/Kurly2026/static/media/img4.71405ebf126598262a70.jpg",
+    "static/media/img8.jpg": "/Kurly2026/static/media/img8.b2d125c2558ad4952226.jpg",
+    "static/media/img6.jpg": "/Kurly2026/static/media/img6.e20e65854630316ca454.jpg",
+    "index.html": "/Kurly2026/index.html",
+    "main.364979c1.css.map": "/Kurly2026/static/css/main.364979c1.css.map",
+    "main.6fcd3a48.js.map": "/Kurly2026/static/js/main.6fcd3a48.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.364979c1.css",
+    "static/js/main.6fcd3a48.js"
+  ]
+}
